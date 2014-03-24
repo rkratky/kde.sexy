@@ -34,7 +34,7 @@ h2 {
 #cont { 
   padding: 0 4em;
   background: #95d8d6; /* Old browsers */
-  background: -moz-repeating-linear-gradient( #95d8d6, #ffffff, #95d8d6 );
+  background: -moz-repeating-linear-gradient( #95d8d6, #ffffff, #95d8d6, #ffffff,  );
   background: -webkit-repeating-linear-gradient( #95d8d6, #ffffff, #95d8d6 );
   background: -o-repeating-linear-gradient( #95d8d6, #ffffff, #95d8d6 );
   background: -ms-repeating-linear-gradient( #95d8d6, #ffffff, #95d8d6 );
